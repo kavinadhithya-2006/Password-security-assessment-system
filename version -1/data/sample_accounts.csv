@@ -1,0 +1,11 @@
+account_id,username,password,password_hash,password_last_changed
+ACC-1001,jsmith,password123,5f4dcc3b5aa765d61d8327deb882cf99,2025-01-15
+ACC-1002,agarcia,Tr0ub4dor&3Xk!qP9,$2b$12$KIXQ8w6z5j9Q0y7v1z2b3.eYQwF4nQwYQwF4nQwYQwF4nQwYQwF4,2026-05-01
+ACC-1003,mchen,qwerty123,7c6a180b36896a0a8c02787eeafb0e4c,2024-11-20
+ACC-1004,rwilliams,Sunshine1!,e10adc3949ba59abbe56e057f20f883e,2026-06-10
+ACC-1005,klopez,correcthorsebatterystaple,$argon2id$v=19$m=65536,t=3,p=4$c29tZXNhbHQ$hash,2026-06-25
+ACC-1006,tnguyen,admin123,21232f297a57a5a743894a0e4a801fc3,2023-08-01
+ACC-1007,dbrown,P@ssw0rd!2026,$5$rounds=5000$saltsalt$examplehashvaluehere,2026-04-18
+ACC-1008,swilson,letmein,aab3238922bcc25a6f606eb525ffdc56,2024-02-14
+ACC-1009,jmartinez,X7$mK9!qL2#vR4pW,$2a$12$abcdefghijklmnopqrstuv,2026-06-30
+ACC-1010,ataylor,1234567890,c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f2686,2022-01-01
